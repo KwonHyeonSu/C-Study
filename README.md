@@ -7,6 +7,10 @@ C++ 책 집필 겸 공부
 
 [OOP_1.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/OOP_1.cpp) - OOP 단계별 프로젝트 1단계 (은행 계좌 시뮬레이션)
 
+[Reference_in_Pointer.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/Reference_in_Pointer.cpp) - (더블)포인터에서 참조자(Reference)를 사용
+
 # 번외 - 인공지능
 
 [meanSquarederror.py](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/mean_Sqared_error.py) - MSE 구하기
+
+[lossFunction.py](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/lossFunction.py) - 여러 종류의 loss Function (Cross Entropy, Mean Sqared Error)
