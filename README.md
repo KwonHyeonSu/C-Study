@@ -13,6 +13,8 @@ C++ 책 집필 겸 공부
 
 [Opertor_etc.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/Opertor_etc.cpp) - 상속에 있어서 클래스의 복사생성자와 대입연산자 등 종합본 정리
 
+[BoundCheckArray.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/BoundCheckArray.cpp) - C, C++에서는 배열의 경계체크를 하지 않는다. 안정성을 위해 클래스를 통해 연산자[] 오버로딩과정을 거쳐서 경계체크를 하도록 하는 코드이다.
+
 # 번외 - 인공지능
 
 [meanSquarederror.py](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/mean_Sqared_error.py) - MSE 구하기
