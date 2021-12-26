@@ -11,6 +11,8 @@ C++ 책 집필 겸 공부
 
 [Capsuling.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/Capsuling.cpp) - 클래스의 캡슐화에 관한 코드 (클래스 :: Point -> Circle -> Ring)
 
+[Opertor_etc.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/Opertor_etc.cpp) - 상속에 있어서 클래스의 복사생성자와 대입연산자 등 종합본 정리
+
 # 번외 - 인공지능
 
 [meanSquarederror.py](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/mean_Sqared_error.py) - MSE 구하기
