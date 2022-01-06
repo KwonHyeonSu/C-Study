@@ -15,6 +15,11 @@ C++ 책 집필 겸 공부
 
 [BoundCheckArray.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/BoundCheckArray.cpp) - C, C++에서는 배열의 경계체크를 하지 않는다. 안정성을 위해 클래스를 통해 연산자[] 오버로딩과정을 거쳐서 경계체크를 하도록 하는 코드이다.
 
+# 코딩테스트 준비
+
+[42587.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/42587.cpp) - 프로그래머스 스택/큐 -> [프린터] 문제
+
+
 # 번외 - 인공지능
 
 [meanSquarederror.py](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/mean_Sqared_error.py) - MSE 구하기
