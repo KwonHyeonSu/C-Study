@@ -19,6 +19,8 @@ C++ 책 집필 겸 공부
 
 [42587.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/42587.cpp) - 프로그래머스 스택/큐 -> [프린터] 문제
 
+[42584.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/commit/5bc20f67cffb87b0ec22559eb68360566897cb3f) - 프로그래머스 스택/큐 -> [주식가격] 문제
+
 
 # 번외 - 인공지능
 
