@@ -23,6 +23,8 @@ C++ 책 집필 겸 공부
 
 [42576.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/commit/a35f1bbf7cb8d8a5267ac798b71d36d4d2587b57) - 프로그래머스 - 해시 - 완주하지 못한 선수
 
+[42577.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/commit/7e49821abead45165d9ab4bd05e2695a73241edf) - 프로그래머스 - 해시 - 전화번호목록
+
 
 # 번외 - 인공지능
 
