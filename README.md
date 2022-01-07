@@ -21,6 +21,8 @@ C++ 책 집필 겸 공부
 
 [42584.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/commit/5bc20f67cffb87b0ec22559eb68360566897cb3f) - 프로그래머스 스택/큐 -> [주식가격] 문제
 
+[42576.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/commit/a35f1bbf7cb8d8a5267ac798b71d36d4d2587b57) - 프로그래머스 - 해시 - 완주하지 못한 선수
+
 
 # 번외 - 인공지능
 
