@@ -27,6 +27,8 @@ C++ 책 집필 겸 공부
 
 [42746.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/42746.cpp) - 프로그래머스 - 정렬 - 가장 큰 수 
 
+[42840.cpp](https://github.com/KwonHyeonSu/Cplusplus_Study/blob/main/42840.cpp) - 프로그래머스 - 42840
+
 
 # 번외 - 인공지능
 
